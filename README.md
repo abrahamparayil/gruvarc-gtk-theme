@@ -24,11 +24,10 @@ sudo cp -r gruvarc-gtk-theme /usr/share/themes
 It supports GTK 2, GTK 3, GNOME Shell, Budgie, Cinnamon, MATE, Unity, Xfce, LightDM, GDM, Chrome theme, etc.
 
 ### Gruvbox
+<p align="right"><img src="http://svgur.com/i/3Dp.svg"></p>
 [Gruvbox](https://github.com/morhetz) is heavily inspired by [badwolf][], [jellybeans][] and [solarized][].
 
 Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of [solarized][]. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
-
-<p align="right"><img src="http://svgur.com/i/3Dp.svg"></p>
 
    [badwolf]: https://github.com/sjl/badwolf
    [jellybeans]: https://github.com/nanotech/jellybeans.vim

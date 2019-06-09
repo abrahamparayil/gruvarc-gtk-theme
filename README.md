@@ -1,4 +1,7 @@
 ## gruvarc-gtk-theme
+
+![Imgur](https://i.imgur.com/hlx7wnb.png)
+
 A gtk theme based on Materia theme and Gruvbox color palette. Created overnight becuase the my brain refused to sleep without seeing a coherent and consistant color scheme throughout my desktop. It's not perfect yet, still a working progress, so go ahead hack on it, make it better or mke your own versions of it.:)
 
 ### How to install
